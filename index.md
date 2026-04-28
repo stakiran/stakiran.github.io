@@ -1,9 +1,22 @@
-# stakiran's links
+stakiran（吉良野すた）のリンク集です。
 
-## stakiran
-- GitHub: <https://github.com/stakiran>
-- Cosense: <https://scrapbox.io/stao/>
-- X: <https://x.com/stakiran2>
-
-## 吉良野すた（ブログや電子書籍）
-- 公式ホームページ: <https://stakiran.github.io/stakiran/>
+- [GitHub @stakiran](https://github.com/stakiran)
+- Blog:
+    - [Zenn、2022-](https://zenn.dev/sta)
+    - ===
+    - [DEV Community、IT系・英語、2025、62記事](https://dev.to/stakiran)
+    - [Qiita、IT系、2017-2019、63記事](https://qiita.com/sta)
+    - [はてなブログ、ライフハック系、2018-2021、384記事](https://stressfree-fulfilling-solo.hatenablog.com/)
+    - [はてなブログ、IT系、2017-2022、361記事](https://stakiran.hatenablog.com/)
+- Cosense:
+    - [ブログ、2024-](https://scrapbox.io/stao/)
+    - ===
+    - [知的生産の探究3（知的生産に魅せられし者）、2025](https://scrapbox.io/neoterizer/)
+    - [知的生産の探究2（Modular Notions）、2025](https://scrapbox.io/modularnotions/)
+    - [低性能の仕事術、2025](https://scrapbox.io/sfls/)
+    - [知的生産の探究1（Workware）、2024](https://scrapbox.io/workware/)
+    - [マインクラフト企画集、2023](https://scrapbox.io/minecraft-projects/)
+    - [タスク管理ツール Tritask ガイド、2020](https://scrapbox.io/tritask/)
+    - [タスク管理の体系化、2020](https://scrapbox.io/sta-taskmanagement/)
+- [Amazon @吉良野すた](https://www.amazon.co.jp/stores/吉良野すた/author/B07JLHMBDV)
+- [X @stakiran2](https://x.com/stakiran2)
