@@ -20,4 +20,3 @@ stakiran（吉良野すた）のリンク集です。
     - [タスク管理の体系化、2020](https://scrapbox.io/sta-taskmanagement/)
 - [Amazon @吉良野すた](https://www.amazon.co.jp/stores/吉良野すた/author/B07JLHMBDV)
 - [カクヨム @stasta](https://kakuyomu.jp/users/stasta)
-- [X @stakiran2](https://x.com/stakiran2)
