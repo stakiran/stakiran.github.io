@@ -18,5 +18,6 @@ stakiran（吉良野すた）のリンク集です。
     - [マインクラフト企画集、2023](https://scrapbox.io/minecraft-projects/)
     - [タスク管理ツール Tritask ガイド、2020](https://scrapbox.io/tritask/)
     - [タスク管理の体系化、2020](https://scrapbox.io/sta-taskmanagement/)
-- [Amazon @吉良野すた](https://www.amazon.co.jp/stores/吉良野すた/author/B07JLHMBDV)
+- [Amazon KDP @吉良野すた](https://www.amazon.co.jp/stores/吉良野すた/author/B07JLHMBDV)
 - [カクヨム @stasta](https://kakuyomu.jp/users/stasta)
+- [YouTube @rmog3](https://www.youtube.com/@rmog3)
